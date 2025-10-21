@@ -1,0 +1,24 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: navy;
+    text-align: center;
+    margin-top: 40px;
+}
+
+.box{
+    width: 300px;
+    padding: 30px;
+    border: 10px solid blue;
+    margin: 25px  auto;
+    background-color: lightgreen;
+}
+
+.content-box{
+    box-sizing: content-box;
+    
+}
+
+.bordr-box{
+    box-sizing: border-box;
+    background-color: lightcyan;
+}
